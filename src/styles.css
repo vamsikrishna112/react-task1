@@ -1,0 +1,18 @@
+.border{
+    width: 450px;
+    border: 1px solid white;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px 5px lightgray;
+}
+h1{
+    text-align: center;
+}
+.message{
+    width: 80%;
+    margin: 0px 20px;
+    border-radius: 4px;
+}
+p{
+    margin-left: 20px;
+}
